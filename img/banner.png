@@ -1,0 +1,437 @@
+<!DOCTYPE html><html lang="pt-BR"><head><meta charSet="utf-8"/><meta content="app-id=1355004911" name="apple-itunes-app"/><link rel="icon" href="/static/images/favicon/favicon-16.png" sizes="16x16"/><link rel="icon" href="/static/images/favicon/favicon-32.png" sizes="32x32"/><link rel="icon" href="/static/images/favicon/favicon-48.png" sizes="48x48"/><link rel="icon" href="/static/images/favicon/favicon-64.png" sizes="64x64"/><link rel="icon" href="/static/images/favicon/favicon-128.png" sizes="128x128"/><link rel="apple-touch-icon" href="/static/images/favicon/apple-touch-icon.png"/><meta name="theme-color" content="#32b68c"/><meta name="msapplication-navbutton-color" content="#32b68c"/><meta name="apple-mobile-web-app-status-bar-style" content="#32b68c"/><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/><meta charSet="utf-8"/><meta name="name" content="✓ Limpeza profissional ✓ Diaristas Credenciadas ✓ Contratação e Pagamento online ✓ Satisfação Garantida" property="description" __typename="MetaTag"/><meta name="name" content="diarista,limpeza,faxineira,trabalho diarista,diarista sp,empregada doméstica diarista,empresas de limpeza,empregada domestica salario,empresas de limpeza,domestica diarista,empregadas" property="keywords" __typename="MetaTag"/><meta name="property" content="website" property="og:type" __typename="MetaTag"/><meta name="property" content="https://www.parafuzo.com" property="og:url" __typename="MetaTag"/><meta name="property" content="Contrate uma faxina para amanhã | Parafuzo.com" property="og:title" __typename="MetaTag"/><meta name="property" content="✓ Limpeza profissional ✓ Diaristas Credenciadas ✓ Contratação e Pagamento online ✓ Satisfação Garantida" property="og:description" __typename="MetaTag"/><meta name="property" content="https://s3-sa-east-1.amazonaws.com/parafuzo-landings-prod/og-parafuzo-limpeza.jpg" property="og:image" __typename="MetaTag"/><meta name="property" content="pt_BR" property="og:locale" __typename="MetaTag"/><meta name="property" content="Parafuzo.com" property="og:site_name" __typename="MetaTag"/><meta name="property" content="image/jpg" property="og:image:type" __typename="MetaTag"/><meta name="property" content="1200" property="og:image:width" __typename="MetaTag"/><meta name="property" content="630" property="og:image:height" __typename="MetaTag"/><meta name="name" content="summary_large_image" property="twitter:card" __typename="MetaTag"/><meta name="name" content="https://www.parafuzo.com" property="twitter:site" __typename="MetaTag"/><meta name="name" content="@parafuzocasa" property="twitter:creator" __typename="MetaTag"/><meta name="name" content="Contrate uma faxina para amanhã | Parafuzo.com" property="twitter:title" __typename="MetaTag"/><meta name="name" content="✓ Limpeza profissional ✓ Diaristas Credenciadas ✓ Contratação e Pagamento online ✓ Satisfação Garantida" property="twitter:description" __typename="MetaTag"/><meta name="name" content="https://s3-sa-east-1.amazonaws.com/parafuzo-landings-prod/og-parafuzo-limpeza.jpg" property="twitter:img:src" __typename="MetaTag"/><title>Contrate uma faxina para amanhã</title><meta name="theme-color" content="#32b68c"/><meta name="msapplication-navbutton-color" content="#32b68c"/><meta name="apple-mobile-web-app-status-bar-style" content="#32b68c"/><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/><meta name="next-head-count" content="24"/><link rel="preload" href="/_next/static/i7T92KqrnQ6Ey1jpCnLeh/pages/hotsite.js" as="script"/><link rel="preload" href="/_next/static/i7T92KqrnQ6Ey1jpCnLeh/pages/_app.js" as="script"/><link rel="preload" href="/_next/static/runtime/webpack-91fc821a2a639ff332c3.js" as="script"/><link rel="preload" href="/_next/static/chunks/commons.6481191ef3d13932782d.js" as="script"/><link rel="preload" href="/_next/static/runtime/main-7206f95959cbd80770f7.js" as="script"/><link rel="preload" href="/_next/static/chunks/styles.b83705051ce2331543a1.js" as="script"/><link rel="stylesheet" href="/_next/static/css/styles.3e730d9c.chunk.css"/><style type="text/css" id="server-side-jss">@media (min-width:600px) {
+  .jss7 {
+    padding-top: 60px;
+  }
+}
+.jss7 a {
+  text-decoration: none;
+}
+.jss7 h2 {
+  font-size: 1.25rem;
+}
+@media (min-width:600px) {
+  .jss8 {
+    padding-top: 0;
+  }
+}
+@media (max-width:599.95px) {
+  .jss9 {
+    padding-top: 30px;
+  }
+}
+body {
+  color: rgba(0, 0, 0, .6);
+  font-family: "Open Sans", Roboto, "Helvetica Neue", Arial, sans-serif;
+  background-color: #f5f5f5;
+}
+body.disable-scroll {
+  overflow: hidden;
+}
+@media (min-width:600px) {
+  body.disable-scroll {
+    padding-right: 15px;
+  }
+}
+@media screen and (-webkit-min-device-pixel-ratio: 0) and (max-device-width: 768px) {
+  select, select:focus, textarea, textarea:focus, input, input:focus {
+    font-size: 16px;
+    -webkit-appearance: none;
+  }
+}
+.jss1 {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.jss2 {
+  flex: 1 0 auto;
+}
+@media (min-width:960px) {
+  .jss2 {
+    padding-top: 73px;
+  }
+}
+@media (max-width:959.95px) {
+  .jss2 {
+    padding-top: 60px;
+  }
+}
+.jss3 {
+  background-color: #f5f5f5;
+}
+.jss4 {
+  background-color: #fff;
+}
+.jss5 {
+  flex-shrink: 0;
+}
+.jss6 {
+  flex-shrink: 0;
+}
+html {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+body {
+  margin: 0;
+  background-color: #fafafa;
+}
+@media print {
+  body {
+    background-color: #fff;
+  }
+}</style></head><body><div id="__next"><div class="jss1"><div class="jss2 undefined"><div class="jss7 jss8"><div id="hotsite-wrapper" class="jss9"><section class="spotlight">
+  <div class="spotlight-content container">
+    <header class="spotlight-header">
+      <h1 class="spotlight-title">
+        Agende uma<br />
+        faxina online
+      </h1>
+      <h2 class="spotlight-subtitle">
+        Faça tudo em poucos cliques, sem sair de casa.<br />
+        Clique abaixo e faça um orçamento.
+      </h2>
+    </header>
+
+    <div class="spotlight-action">
+      <a
+        href="/limpeza/contratar"
+        class="primary-button spotlight-action-button button is-cta"
+        >Meu Lar</a
+      >
+
+      <a
+        href="/limpeza-comercial/contratar"
+        class="outline-button spotlight-action-button button is-cta"
+        >Minha Empresa</a
+      >
+    </div>
+
+    <ul class="spotlight-list list">
+      <li class="spotlight-list-item list-item">
+        <svg class="icon icon-check list-icon">
+          <use xlink:href="#hotsite-sprite_icon-check"></use>
+        </svg>
+        Contratação por Hora
+      </li>
+      <li class="spotlight-list-item list-item">
+        <svg class="icon icon-check list-icon">
+          <use xlink:href="#hotsite-sprite_icon-check"></use>
+        </svg>
+        Qualidade Garantida
+      </li>
+      <li class="spotlight-list-item list-item">
+        <svg class="icon icon-check list-icon">
+          <use xlink:href="#hotsite-sprite_icon-check"></use>
+        </svg>
+        Profissionais Credenciados
+      </li>
+      <li class="spotlight-list-item list-item">
+        <svg class="icon icon-check list-icon">
+          <use xlink:href="#hotsite-sprite_icon-check"></use>
+        </svg>
+        Pague com Cartão<br />
+         de Crédito
+      </li>
+    </ul>
+  </div>
+
+  <a href="#how-it-works" class="spotlight-icon-scroll" data-scroll-to="true"
+    ><img
+      src="https://parafuzo-assets.s3.amazonaws.com/images/icon-chevron-circle-down.gz.svg"
+      alt="Icon chevron circle down.gz"
+  /></a>
+</section>
+
+<section id="how-it-works" class="content-block container">
+  <h2 class="content-block-title"><span>Como funciona</span></h2>
+
+  <div class="feature-list">
+    <div class="feature-item">
+      <a href="/limpeza/contratar">
+        <img
+          src="https://parafuzo-assets.s3.amazonaws.com/images/icon-schedule.gz.svg"
+          class="feature-icon"
+          alt="Agende online"
+        />
+      </a>
+      <h3 class="feature-title">Agende online</h3>
+
+      Informe o número de quartos e banheiros do seu lar. Escolha uma data e
+      saiba na hora o valor. Pronto, é só confirmar o pedido.
+    </div>
+
+    <div class="feature-item">
+      <img
+        src="https://parafuzo-assets.s3.amazonaws.com/images/icon-tasker.gz.svg"
+        class="feature-icon"
+        alt="Conheça o profissional"
+      />
+
+      <h3 class="feature-title">Conheça o profissional</h3>
+
+      Após a confirmação do pedido, você receberá um email com a identificação
+      do profissional que lhe atenderá.
+    </div>
+
+    <div class="feature-item">
+      <img
+        src="https://parafuzo-assets.s3.amazonaws.com/images/icon-payment.gz.svg"
+        class="feature-icon"
+        alt="Pagamento seguro"
+      />
+
+      <h3 class="feature-title">Pagamento seguro</h3>
+
+      Você pode pagar com Visa ou Mastercard. O valor de cada diária é individual, assim, o seu limite fica livre.
+    </div>
+  </div>
+
+  <div class="home-cta">
+    <h3 class="home-cta-title">Faça seu pedido</h3>
+
+    <a
+      href="/limpeza/contratar"
+      class="primary-button home-cta-button button is-cta"
+      >Meu Lar</a
+    >
+    <a
+      href="/limpeza-comercial/contratar"
+      class="outline-button home-cta-button button is-cta"
+      >Minha Empresa</a
+    >
+  </div>
+</section>
+
+<section class="content-block light container">
+  <h2 class="content-block-title"><span>Vantagens pra você</span></h2>
+
+  <div class="feature-list">
+    <div class="feature-item">
+      <svg class="icon icon-magic-wand feature-icon">
+        <use xlink:href="#hotsite-sprite_icon-magic-wand"></use>
+      </svg>
+
+      <h3 class="feature-title">Praticidade</h3>
+
+      Faça de onde estiver o agendamento ou alterações no seu pedido, sem
+      precisar falar com um atendente.
+    </div>
+
+    <div class="feature-item">
+      <svg class="icon icon-price-tag feature-icon">
+        <use xlink:href="#hotsite-sprite_icon-price-tag"></use>
+      </svg>
+
+      <h3 class="feature-title">Preço justo</h3>
+
+      A contratação do serviço é feita por hora, assim, você economiza até 35%
+      em comparação ao mercado.
+    </div>
+
+    <div class="feature-item">
+      <svg class="icon icon-quality feature-icon">
+        <use xlink:href="#hotsite-sprite_icon-quality"></use>
+      </svg>
+
+      <h3 class="feature-title">Qualidade</h3>
+
+      Contamos com ótimos profissionais para garantir o melhor serviço. Mas se
+      acontecer qualquer problema, estamos a sua disposição.
+    </div>
+  </div>
+
+  <div class="home-cta">
+    <h3 class="home-cta-title">Faça seu pedido</h3>
+
+    <a
+      href="/limpeza/contratar"
+      class="primary-button home-cta-button button is-cta"
+      >Meu Lar</a
+    >
+    <a
+      href="/limpeza-comercial/contratar"
+      class="outline-button home-cta-button button is-cta"
+      >Minha Empresa</a
+    >
+  </div>
+</section>
+
+<section class="content-block container">
+  <h2 class="content-block-title"><span>O que estão falando</span></h2>
+
+  <div class="row mb-medium">
+    <div class="col-xs-6 text-right">
+      <a
+        href="http://vejasp.abril.com.br/materia/servicos-que-facilitam-a-vida-do-paulistano"
+        target="_blanck"
+        title="Link veja São Paulo"
+      >
+        <img
+          src="https://parafuzo-assets.s3.amazonaws.com/images/veja-sao-paulo.gz.png"
+          alt="Veja São Paulo"
+          class="publisher-logo"
+        />
+      </a>
+    </div>
+
+    <div class="col-xs-6 text-left">
+      <a
+        href="http://www.arquiteturainteriores.com/parafuzo-sua-parede-de-cara-nova-em-ate-48hs/"
+        target="_blanck"
+        title="Link blog a+i"
+      >
+        <img
+          src="https://parafuzo-assets.s3.amazonaws.com/images/blog_a_i.gz.png"
+          alt="blog a+i"
+          class="publisher-logo"
+        />
+      </a>
+    </div>
+  </div>
+
+  <div class="row">
+    <div
+      class="col-sm-8 col-sm-offset-2 col-lg-offset-1 col-lg-5 testimonials testimonials-left mb-medium"
+    >
+      <div class="media">
+        <div class="pull-left">
+          <img
+            src="https://parafuzo-assets.s3.amazonaws.com/images/juliana.gz.jpg"
+            alt="Juliana Rodrigues sobre a Parafuzo"
+            class="img-circle testimonials__image"
+          />
+        </div>
+
+        <div class="media-body">
+          <h3 class="media-heading">Juliana Rodrigues</h3>
+          <p class="text-small">
+            “Me passaram muitíssima confiança sobre o trabalho deles, e me
+            surpreenderam tanto que quero contratar todo mês! E a diarista?!
+            Aii, nem preciso falar! Fez tudo com muito carinho e bom humor.
+            Deixou tudo caprichado e limpinho. Adorei!”
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="clearfix visible-sm visible-md hide-lg"></div>
+
+    <div
+      class="col-sm-8 col-sm-offset-2 col-lg-offset-0 col-md-8 col-lg-5 testimonials testimonials-right mb-medium"
+    >
+      <div class="media">
+        <div class="pull-left">
+          <img
+            src="https://parafuzo-assets.s3.amazonaws.com/images/katia.gz.jpg"
+            alt="Kátia Ferrarezi sobre a Parafuzo"
+            class="img-circle testimonials__image"
+          />
+        </div>
+
+        <div class="media-body">
+          <h3 class="media-heading">Kátia Ferrarezi</h3>
+          <p class="text-small">
+            “Achei ótima essa opção. Eles te mandam um email confirmando o
+            serviço escolhido e um dia antes enviam o nome da profissional que
+            irá te atender. Ela chegou no horário, veio uniformizada e deixou
+            tudo limpinho! Estou muito satisfeita com o serviço.”
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div
+      class="col-sm-8 col-sm-offset-2 col-lg-offset-1 col-lg-5 testimonials testimonials-left mb-medium"
+    >
+      <div class="media">
+        <div class="pull-left">
+          <img
+            src="https://parafuzo-assets.s3.amazonaws.com/images/luana.gz.jpg"
+            alt="Luana Friolane sobre a Parafuzo"
+            class="img-circle testimonials__image"
+          />
+        </div>
+
+        <div class="media-body">
+          <h3 class="media-heading">Luana Friolane</h3>
+          <p class="text-small">
+            “Tenho um bebê novinho e minha casa estava um caos. Entrei no site
+            da Parafuzo e de maneira simples agendei uma limpeza. Além da
+            praticidade de escolher ou alterar a data, pagar com cartão de
+            crédito é ótimo! A moça chegou pontualmente no dia marcado, minha
+            casa ficou impecável e ainda trocamos dicas sobre maternidade. Eu
+            simplesmente amei!”
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="clearfix visible-sm visible-md hide-lg"></div>
+
+    <div
+      class="col-sm-8 col-sm-offset-2 col-lg-offset-0 col-md-8 col-lg-5 testimonials testimonials-right mb-medium"
+    >
+      <div class="media">
+        <div class="pull-left">
+          <img
+            src="https://parafuzo-assets.s3.amazonaws.com/images/barbara.gz.jpg"
+            alt="Bárbara Urias sobre a Parafuzo"
+            class="img-circle testimonials__image"
+          />
+        </div>
+
+        <div class="media-body">
+          <h3 class="media-heading">Bárbara Urias</h3>
+          <p class="text-small">
+            “É seguro, prático e funcionou certinho. Minha casa ficou limpa,
+            cheirosa e organizada. Indico demais!”
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="text-center text-small mb-small">
+    <span class="testimonials__check"
+      ><svg class="icon icon-check color-parafuzo">
+        <use xlink:href="#hotsite-sprite_icon-check"></use>
+      </svg>
+      Escolha a data e o horário</span
+    >
+    <span class="testimonials__check"
+      ><svg class="icon icon-check color-parafuzo">
+        <use xlink:href="#hotsite-sprite_icon-check"></use>
+      </svg>
+      Pague com cartão de crédito</span
+    >
+    <span class="testimonials__check"
+      ><svg class="icon icon-check color-parafuzo">
+        <use xlink:href="#hotsite-sprite_icon-check"></use>
+      </svg>
+      Garantia de qualidade</span
+    >
+  </div>
+
+  <div class="home-cta">
+    <h3 class="home-cta-title">Faça seu pedido</h3>
+
+    <a
+      href="/limpeza/contratar"
+      class="primary-button home-cta-button button is-cta"
+      >Meu Lar</a
+    >
+    <a
+      href="/limpeza-comercial/contratar"
+      class="outline-button home-cta-button button is-cta"
+      >Minha Empresa</a
+    >
+  </div>
+</section></div></div></div></div></div><script src="https://polyfill.io/v3/polyfill.min.js?flags=gated%2Calways&amp;features=Symbol.iterator%2CSymbol%2CrequestAnimationFrame%2CMap%2CSet%2CArray.prototype.map%2CArray.prototype.fill%2CArray.from%2CArray.prototype.filter%2CArray.prototype.find%2CArray.prototype.includes%2CObject.assign%2CObject.keys%2CString.prototype.includes%2CReflect"></script><script id="__NEXT_DATA__" type="application/json">{"dataManager":"[]","props":{"pageProps":{"slug":"home","title":"Contrate uma faxina para amanhã","sitemap":true,"metaTags":[{"name":"name","content":"✓ Limpeza profissional ✓ Diaristas Credenciadas ✓ Contratação e Pagamento online ✓ Satisfação Garantida","property":"description","__typename":"MetaTag"},{"name":"name","content":"diarista,limpeza,faxineira,trabalho diarista,diarista sp,empregada doméstica diarista,empresas de limpeza,empregada domestica salario,empresas de limpeza,domestica diarista,empregadas","property":"keywords","__typename":"MetaTag"},{"name":"property","content":"website","property":"og:type","__typename":"MetaTag"},{"name":"property","content":"https://www.parafuzo.com","property":"og:url","__typename":"MetaTag"},{"name":"property","content":"Contrate uma faxina para amanhã | Parafuzo.com","property":"og:title","__typename":"MetaTag"},{"name":"property","content":"✓ Limpeza profissional ✓ Diaristas Credenciadas ✓ Contratação e Pagamento online ✓ Satisfação Garantida","property":"og:description","__typename":"MetaTag"},{"name":"property","content":"https://s3-sa-east-1.amazonaws.com/parafuzo-landings-prod/og-parafuzo-limpeza.jpg","property":"og:image","__typename":"MetaTag"},{"name":"property","content":"pt_BR","property":"og:locale","__typename":"MetaTag"},{"name":"property","content":"Parafuzo.com","property":"og:site_name","__typename":"MetaTag"},{"name":"property","content":"image/jpg","property":"og:image:type","__typename":"MetaTag"},{"name":"property","content":"1200","property":"og:image:width","__typename":"MetaTag"},{"name":"property","content":"630","property":"og:image:height","__typename":"MetaTag"},{"name":"name","content":"summary_large_image","property":"twitter:card","__typename":"MetaTag"},{"name":"name","content":"https://www.parafuzo.com","property":"twitter:site","__typename":"MetaTag"},{"name":"name","content":"@parafuzocasa","property":"twitter:creator","__typename":"MetaTag"},{"name":"name","content":"Contrate uma faxina para amanhã | Parafuzo.com","property":"twitter:title","__typename":"MetaTag"},{"name":"name","content":"✓ Limpeza profissional ✓ Diaristas Credenciadas ✓ Contratação e Pagamento online ✓ Satisfação Garantida","property":"twitter:description","__typename":"MetaTag"},{"name":"name","content":"https://s3-sa-east-1.amazonaws.com/parafuzo-landings-prod/og-parafuzo-limpeza.jpg","property":"twitter:img:src","__typename":"MetaTag"}],"blocks":[{"content":"\u003csection class=\"spotlight\"\u003e\r\n  \u003cdiv class=\"spotlight-content container\"\u003e\r\n    \u003cheader class=\"spotlight-header\"\u003e\r\n      \u003ch1 class=\"spotlight-title\"\u003e\r\n        Agende uma\u003cbr /\u003e\r\n        faxina online\r\n      \u003c/h1\u003e\r\n      \u003ch2 class=\"spotlight-subtitle\"\u003e\r\n        Faça tudo em poucos cliques, sem sair de casa.\u003cbr /\u003e\r\n        Clique abaixo e faça um orçamento.\r\n      \u003c/h2\u003e\r\n    \u003c/header\u003e\r\n\r\n    \u003cdiv class=\"spotlight-action\"\u003e\r\n      \u003ca\r\n        href=\"/limpeza/contratar\"\r\n        class=\"primary-button spotlight-action-button button is-cta\"\r\n        \u003eMeu Lar\u003c/a\r\n      \u003e\r\n\r\n      \u003ca\r\n        href=\"/limpeza-comercial/contratar\"\r\n        class=\"outline-button spotlight-action-button button is-cta\"\r\n        \u003eMinha Empresa\u003c/a\r\n      \u003e\r\n    \u003c/div\u003e\r\n\r\n    \u003cul class=\"spotlight-list list\"\u003e\r\n      \u003cli class=\"spotlight-list-item list-item\"\u003e\r\n        \u003csvg class=\"icon icon-check list-icon\"\u003e\r\n          \u003cuse xlink:href=\"#icon-check\"\u003e\u003c/use\u003e\r\n        \u003c/svg\u003e\r\n        Contratação por Hora\r\n      \u003c/li\u003e\r\n      \u003cli class=\"spotlight-list-item list-item\"\u003e\r\n        \u003csvg class=\"icon icon-check list-icon\"\u003e\r\n          \u003cuse xlink:href=\"#icon-check\"\u003e\u003c/use\u003e\r\n        \u003c/svg\u003e\r\n        Qualidade Garantida\r\n      \u003c/li\u003e\r\n      \u003cli class=\"spotlight-list-item list-item\"\u003e\r\n        \u003csvg class=\"icon icon-check list-icon\"\u003e\r\n          \u003cuse xlink:href=\"#icon-check\"\u003e\u003c/use\u003e\r\n        \u003c/svg\u003e\r\n        Profissionais Credenciados\r\n      \u003c/li\u003e\r\n      \u003cli class=\"spotlight-list-item list-item\"\u003e\r\n        \u003csvg class=\"icon icon-check list-icon\"\u003e\r\n          \u003cuse xlink:href=\"#icon-check\"\u003e\u003c/use\u003e\r\n        \u003c/svg\u003e\r\n        Pague com Cartão\u003cbr /\u003e\r\n         de Crédito\r\n      \u003c/li\u003e\r\n    \u003c/ul\u003e\r\n  \u003c/div\u003e\r\n\r\n  \u003ca href=\"#how-it-works\" class=\"spotlight-icon-scroll\" data-scroll-to=\"true\"\r\n    \u003e\u003cimg\r\n      src=\"https://parafuzo-assets.s3.amazonaws.com/images/icon-chevron-circle-down.gz.svg\"\r\n      alt=\"Icon chevron circle down.gz\"\r\n  /\u003e\u003c/a\u003e\r\n\u003c/section\u003e\r\n\r\n\u003csection id=\"how-it-works\" class=\"content-block container\"\u003e\r\n  \u003ch2 class=\"content-block-title\"\u003e\u003cspan\u003eComo funciona\u003c/span\u003e\u003c/h2\u003e\r\n\r\n  \u003cdiv class=\"feature-list\"\u003e\r\n    \u003cdiv class=\"feature-item\"\u003e\r\n      \u003ca href=\"/limpeza/contratar\"\u003e\r\n        \u003cimg\r\n          src=\"https://parafuzo-assets.s3.amazonaws.com/images/icon-schedule.gz.svg\"\r\n          class=\"feature-icon\"\r\n          alt=\"Agende online\"\r\n        /\u003e\r\n      \u003c/a\u003e\r\n      \u003ch3 class=\"feature-title\"\u003eAgende online\u003c/h3\u003e\r\n\r\n      Informe o número de quartos e banheiros do seu lar. Escolha uma data e\r\n      saiba na hora o valor. Pronto, é só confirmar o pedido.\r\n    \u003c/div\u003e\r\n\r\n    \u003cdiv class=\"feature-item\"\u003e\r\n      \u003cimg\r\n        src=\"https://parafuzo-assets.s3.amazonaws.com/images/icon-tasker.gz.svg\"\r\n        class=\"feature-icon\"\r\n        alt=\"Conheça o profissional\"\r\n      /\u003e\r\n\r\n      \u003ch3 class=\"feature-title\"\u003eConheça o profissional\u003c/h3\u003e\r\n\r\n      Após a confirmação do pedido, você receberá um email com a identificação\r\n      do profissional que lhe atenderá.\r\n    \u003c/div\u003e\r\n\r\n    \u003cdiv class=\"feature-item\"\u003e\r\n      \u003cimg\r\n        src=\"https://parafuzo-assets.s3.amazonaws.com/images/icon-payment.gz.svg\"\r\n        class=\"feature-icon\"\r\n        alt=\"Pagamento seguro\"\r\n      /\u003e\r\n\r\n      \u003ch3 class=\"feature-title\"\u003ePagamento seguro\u003c/h3\u003e\r\n\r\n      Você pode pagar com Visa ou Mastercard. O valor de cada diária é individual, assim, o seu limite fica livre.\r\n    \u003c/div\u003e\r\n  \u003c/div\u003e\r\n\r\n  \u003cdiv class=\"home-cta\"\u003e\r\n    \u003ch3 class=\"home-cta-title\"\u003eFaça seu pedido\u003c/h3\u003e\r\n\r\n    \u003ca\r\n      href=\"/limpeza/contratar\"\r\n      class=\"primary-button home-cta-button button is-cta\"\r\n      \u003eMeu Lar\u003c/a\r\n    \u003e\r\n    \u003ca\r\n      href=\"/limpeza-comercial/contratar\"\r\n      class=\"outline-button home-cta-button button is-cta\"\r\n      \u003eMinha Empresa\u003c/a\r\n    \u003e\r\n  \u003c/div\u003e\r\n\u003c/section\u003e\r\n\r\n\u003csection class=\"content-block light container\"\u003e\r\n  \u003ch2 class=\"content-block-title\"\u003e\u003cspan\u003eVantagens pra você\u003c/span\u003e\u003c/h2\u003e\r\n\r\n  \u003cdiv class=\"feature-list\"\u003e\r\n    \u003cdiv class=\"feature-item\"\u003e\r\n      \u003csvg class=\"icon icon-magic-wand feature-icon\"\u003e\r\n        \u003cuse xlink:href=\"#icon-magic-wand\"\u003e\u003c/use\u003e\r\n      \u003c/svg\u003e\r\n\r\n      \u003ch3 class=\"feature-title\"\u003ePraticidade\u003c/h3\u003e\r\n\r\n      Faça de onde estiver o agendamento ou alterações no seu pedido, sem\r\n      precisar falar com um atendente.\r\n    \u003c/div\u003e\r\n\r\n    \u003cdiv class=\"feature-item\"\u003e\r\n      \u003csvg class=\"icon icon-price-tag feature-icon\"\u003e\r\n        \u003cuse xlink:href=\"#icon-price-tag\"\u003e\u003c/use\u003e\r\n      \u003c/svg\u003e\r\n\r\n      \u003ch3 class=\"feature-title\"\u003ePreço justo\u003c/h3\u003e\r\n\r\n      A contratação do serviço é feita por hora, assim, você economiza até 35%\r\n      em comparação ao mercado.\r\n    \u003c/div\u003e\r\n\r\n    \u003cdiv class=\"feature-item\"\u003e\r\n      \u003csvg class=\"icon icon-quality feature-icon\"\u003e\r\n        \u003cuse xlink:href=\"#icon-quality\"\u003e\u003c/use\u003e\r\n      \u003c/svg\u003e\r\n\r\n      \u003ch3 class=\"feature-title\"\u003eQualidade\u003c/h3\u003e\r\n\r\n      Contamos com ótimos profissionais para garantir o melhor serviço. Mas se\r\n      acontecer qualquer problema, estamos a sua disposição.\r\n    \u003c/div\u003e\r\n  \u003c/div\u003e\r\n\r\n  \u003cdiv class=\"home-cta\"\u003e\r\n    \u003ch3 class=\"home-cta-title\"\u003eFaça seu pedido\u003c/h3\u003e\r\n\r\n    \u003ca\r\n      href=\"/limpeza/contratar\"\r\n      class=\"primary-button home-cta-button button is-cta\"\r\n      \u003eMeu Lar\u003c/a\r\n    \u003e\r\n    \u003ca\r\n      href=\"/limpeza-comercial/contratar\"\r\n      class=\"outline-button home-cta-button button is-cta\"\r\n      \u003eMinha Empresa\u003c/a\r\n    \u003e\r\n  \u003c/div\u003e\r\n\u003c/section\u003e\r\n\r\n\u003csection class=\"content-block container\"\u003e\r\n  \u003ch2 class=\"content-block-title\"\u003e\u003cspan\u003eO que estão falando\u003c/span\u003e\u003c/h2\u003e\r\n\r\n  \u003cdiv class=\"row mb-medium\"\u003e\r\n    \u003cdiv class=\"col-xs-6 text-right\"\u003e\r\n      \u003ca\r\n        href=\"http://vejasp.abril.com.br/materia/servicos-que-facilitam-a-vida-do-paulistano\"\r\n        target=\"_blanck\"\r\n        title=\"Link veja São Paulo\"\r\n      \u003e\r\n        \u003cimg\r\n          src=\"https://parafuzo-assets.s3.amazonaws.com/images/veja-sao-paulo.gz.png\"\r\n          alt=\"Veja São Paulo\"\r\n          class=\"publisher-logo\"\r\n        /\u003e\r\n      \u003c/a\u003e\r\n    \u003c/div\u003e\r\n\r\n    \u003cdiv class=\"col-xs-6 text-left\"\u003e\r\n      \u003ca\r\n        href=\"http://www.arquiteturainteriores.com/parafuzo-sua-parede-de-cara-nova-em-ate-48hs/\"\r\n        target=\"_blanck\"\r\n        title=\"Link blog a+i\"\r\n      \u003e\r\n        \u003cimg\r\n          src=\"https://parafuzo-assets.s3.amazonaws.com/images/blog_a_i.gz.png\"\r\n          alt=\"blog a+i\"\r\n          class=\"publisher-logo\"\r\n        /\u003e\r\n      \u003c/a\u003e\r\n    \u003c/div\u003e\r\n  \u003c/div\u003e\r\n\r\n  \u003cdiv class=\"row\"\u003e\r\n    \u003cdiv\r\n      class=\"col-sm-8 col-sm-offset-2 col-lg-offset-1 col-lg-5 testimonials testimonials-left mb-medium\"\r\n    \u003e\r\n      \u003cdiv class=\"media\"\u003e\r\n        \u003cdiv class=\"pull-left\"\u003e\r\n          \u003cimg\r\n            src=\"https://parafuzo-assets.s3.amazonaws.com/images/juliana.gz.jpg\"\r\n            alt=\"Juliana Rodrigues sobre a Parafuzo\"\r\n            class=\"img-circle testimonials__image\"\r\n          /\u003e\r\n        \u003c/div\u003e\r\n\r\n        \u003cdiv class=\"media-body\"\u003e\r\n          \u003ch3 class=\"media-heading\"\u003eJuliana Rodrigues\u003c/h3\u003e\r\n          \u003cp class=\"text-small\"\u003e\r\n            “Me passaram muitíssima confiança sobre o trabalho deles, e me\r\n            surpreenderam tanto que quero contratar todo mês! E a diarista?!\r\n            Aii, nem preciso falar! Fez tudo com muito carinho e bom humor.\r\n            Deixou tudo caprichado e limpinho. Adorei!”\r\n          \u003c/p\u003e\r\n        \u003c/div\u003e\r\n      \u003c/div\u003e\r\n    \u003c/div\u003e\r\n\r\n    \u003cdiv class=\"clearfix visible-sm visible-md hide-lg\"\u003e\u003c/div\u003e\r\n\r\n    \u003cdiv\r\n      class=\"col-sm-8 col-sm-offset-2 col-lg-offset-0 col-md-8 col-lg-5 testimonials testimonials-right mb-medium\"\r\n    \u003e\r\n      \u003cdiv class=\"media\"\u003e\r\n        \u003cdiv class=\"pull-left\"\u003e\r\n          \u003cimg\r\n            src=\"https://parafuzo-assets.s3.amazonaws.com/images/katia.gz.jpg\"\r\n            alt=\"Kátia Ferrarezi sobre a Parafuzo\"\r\n            class=\"img-circle testimonials__image\"\r\n          /\u003e\r\n        \u003c/div\u003e\r\n\r\n        \u003cdiv class=\"media-body\"\u003e\r\n          \u003ch3 class=\"media-heading\"\u003eKátia Ferrarezi\u003c/h3\u003e\r\n          \u003cp class=\"text-small\"\u003e\r\n            “Achei ótima essa opção. Eles te mandam um email confirmando o\r\n            serviço escolhido e um dia antes enviam o nome da profissional que\r\n            irá te atender. Ela chegou no horário, veio uniformizada e deixou\r\n            tudo limpinho! Estou muito satisfeita com o serviço.”\r\n          \u003c/p\u003e\r\n        \u003c/div\u003e\r\n      \u003c/div\u003e\r\n    \u003c/div\u003e\r\n  \u003c/div\u003e\r\n\r\n  \u003cdiv class=\"row\"\u003e\r\n    \u003cdiv\r\n      class=\"col-sm-8 col-sm-offset-2 col-lg-offset-1 col-lg-5 testimonials testimonials-left mb-medium\"\r\n    \u003e\r\n      \u003cdiv class=\"media\"\u003e\r\n        \u003cdiv class=\"pull-left\"\u003e\r\n          \u003cimg\r\n            src=\"https://parafuzo-assets.s3.amazonaws.com/images/luana.gz.jpg\"\r\n            alt=\"Luana Friolane sobre a Parafuzo\"\r\n            class=\"img-circle testimonials__image\"\r\n          /\u003e\r\n        \u003c/div\u003e\r\n\r\n        \u003cdiv class=\"media-body\"\u003e\r\n          \u003ch3 class=\"media-heading\"\u003eLuana Friolane\u003c/h3\u003e\r\n          \u003cp class=\"text-small\"\u003e\r\n            “Tenho um bebê novinho e minha casa estava um caos. Entrei no site\r\n            da Parafuzo e de maneira simples agendei uma limpeza. Além da\r\n            praticidade de escolher ou alterar a data, pagar com cartão de\r\n            crédito é ótimo! A moça chegou pontualmente no dia marcado, minha\r\n            casa ficou impecável e ainda trocamos dicas sobre maternidade. Eu\r\n            simplesmente amei!”\r\n          \u003c/p\u003e\r\n        \u003c/div\u003e\r\n      \u003c/div\u003e\r\n    \u003c/div\u003e\r\n\r\n    \u003cdiv class=\"clearfix visible-sm visible-md hide-lg\"\u003e\u003c/div\u003e\r\n\r\n    \u003cdiv\r\n      class=\"col-sm-8 col-sm-offset-2 col-lg-offset-0 col-md-8 col-lg-5 testimonials testimonials-right mb-medium\"\r\n    \u003e\r\n      \u003cdiv class=\"media\"\u003e\r\n        \u003cdiv class=\"pull-left\"\u003e\r\n          \u003cimg\r\n            src=\"https://parafuzo-assets.s3.amazonaws.com/images/barbara.gz.jpg\"\r\n            alt=\"Bárbara Urias sobre a Parafuzo\"\r\n            class=\"img-circle testimonials__image\"\r\n          /\u003e\r\n        \u003c/div\u003e\r\n\r\n        \u003cdiv class=\"media-body\"\u003e\r\n          \u003ch3 class=\"media-heading\"\u003eBárbara Urias\u003c/h3\u003e\r\n          \u003cp class=\"text-small\"\u003e\r\n            “É seguro, prático e funcionou certinho. Minha casa ficou limpa,\r\n            cheirosa e organizada. Indico demais!”\r\n          \u003c/p\u003e\r\n        \u003c/div\u003e\r\n      \u003c/div\u003e\r\n    \u003c/div\u003e\r\n  \u003c/div\u003e\r\n\r\n  \u003cdiv class=\"text-center text-small mb-small\"\u003e\r\n    \u003cspan class=\"testimonials__check\"\r\n      \u003e\u003csvg class=\"icon icon-check color-parafuzo\"\u003e\r\n        \u003cuse xlink:href=\"#icon-check\"\u003e\u003c/use\u003e\r\n      \u003c/svg\u003e\r\n      Escolha a data e o horário\u003c/span\r\n    \u003e\r\n    \u003cspan class=\"testimonials__check\"\r\n      \u003e\u003csvg class=\"icon icon-check color-parafuzo\"\u003e\r\n        \u003cuse xlink:href=\"#icon-check\"\u003e\u003c/use\u003e\r\n      \u003c/svg\u003e\r\n      Pague com cartão de crédito\u003c/span\r\n    \u003e\r\n    \u003cspan class=\"testimonials__check\"\r\n      \u003e\u003csvg class=\"icon icon-check color-parafuzo\"\u003e\r\n        \u003cuse xlink:href=\"#icon-check\"\u003e\u003c/use\u003e\r\n      \u003c/svg\u003e\r\n      Garantia de qualidade\u003c/span\r\n    \u003e\r\n  \u003c/div\u003e\r\n\r\n  \u003cdiv class=\"home-cta\"\u003e\r\n    \u003ch3 class=\"home-cta-title\"\u003eFaça seu pedido\u003c/h3\u003e\r\n\r\n    \u003ca\r\n      href=\"/limpeza/contratar\"\r\n      class=\"primary-button home-cta-button button is-cta\"\r\n      \u003eMeu Lar\u003c/a\r\n    \u003e\r\n    \u003ca\r\n      href=\"/limpeza-comercial/contratar\"\r\n      class=\"outline-button home-cta-button button is-cta\"\r\n      \u003eMinha Empresa\u003c/a\r\n    \u003e\r\n  \u003c/div\u003e\r\n\u003c/section\u003e","order":null,"__typename":"CustomHotSiteBlock"}],"__typename":"HotSite","pageType":"HotSite"}},"page":"/hotsite","query":{},"buildId":"i7T92KqrnQ6Ey1jpCnLeh","dynamicBuildId":false,"runtimeConfig":{"BRANCH":"production","CHECKOUT_TIME_LIMIT":20,"COMMIT_REF":"53d1d548c63fc629ac3240cc175bc0051f92e724","FACEBOOK_APP_ID":"684597371588388","FEEDBACK_COUPON":"ACT_FEEDBACK40OFF","GOOGLE_TAG_MANAGER_CONTAINER":"GTM-59NJDRC","GOOGLE_TAG_NAMESPACE":"izi","GRAPHQL_ENDPOINT":"/graphql","isDevelopment":false,"logEnabled":false,"PORTAL_HOME_HOTSITE_SLUG":"home","PRICING_BUNDLE_URL":"https://bundles.pricing-api.prod.parafuzo.com/latest.js","STRIPE_PUBLIC_KEY":"pk_live_oIA8Ya6w2il8HPiQTGtJBSQX","EXPRESS_CURRENT_EXPERIMENT_ID":"D6m-SirIScaqeSAj_nDzhQ","EXPRESS_CASH_EXPERIMENT_ID":"D6m-SirIScaqeSAj_nDzhQ","staticFolder":"/static"},"nextExport":true}</script><script async="" data-next-page="/hotsite" src="/_next/static/i7T92KqrnQ6Ey1jpCnLeh/pages/hotsite.js"></script><script async="" data-next-page="/_app" src="/_next/static/i7T92KqrnQ6Ey1jpCnLeh/pages/_app.js"></script><script src="/_next/static/runtime/webpack-91fc821a2a639ff332c3.js" async=""></script><script src="/_next/static/chunks/commons.6481191ef3d13932782d.js" async=""></script><script src="/_next/static/runtime/main-7206f95959cbd80770f7.js" async=""></script><script src="/_next/static/chunks/styles.b83705051ce2331543a1.js" async=""></script></body></html>

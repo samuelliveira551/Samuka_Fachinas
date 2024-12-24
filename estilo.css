@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans|Lato|Oswald&display=swap');
+
+*{margin: 0; padding: 0;} /*todas as margenes entre elementos e espaçamentos será zero*/
+
+body{
+	background-color: #FFECB3 
+}
+
+header{
+	width: 100%; /* Deixamos com o mesmo tamanho da imagagm */
+	height: 300px; 
+}
+
+img{ /*Colocar os seletore na ordem do html*/
+	width: 100%; /* Largura da imagem do banner. Atenção % é diferente de px*/
+	height: 300px; /* altura da imagem. */
+}
+
+nav{ /*Onde fica o menu*/
+	background-color: red; 
+	text-align: center;
+	padding: 20px;
+}
+
+a{
+	font: 1.2em "montserrat", sans-serif;  /*Tamanho e Tipo da fonte do menu*/
+	color: #FFF; /*branco*/
+	margin-right: 30px;  /*afasta as palavras do menu*/
+	text-decoration: none; /*É a decoração. Tirei a linha de baixo das palavras do menu*/  
+}
+
+article{ /*Onde fica o nome Receiteck e o texto*/
+	background-color: #fff; /*cor de fundo branco*/
+	padding: 20px; /*Centraliza o texto do Receiteck*/
+}
+
+h1{
+	font-family: 'Lato', sans-serif;/*font*/
+	font-size: 2.5em; /*tamanho*/
+	color: #FF5757; /*cor pode usar tambem rgb(0,0,0)*/
+	text-align: center; /*Posição do texto na página*/
+	margin-bottom: 20px /*Dá m espaço entre o título e o texto*/
+	}
+
+p{
+	font: 1.3em 'Oswald', sans-serif;
+	color: #FF5757;
+	text-align: justify;
+	text-indent: 40px; /*Faz uma indentação no texto*/	 
+	}
+
+section  /*Ranking*/
+	#pag-ran{
+	background-color: #FFECB3;
+	padding: 20px;
+}	
+
+h2{
+	font: 3em 'Lato', sans-serif;
+	color: #FF5757;
+	margin-bottom: 20px;
+}
+
+ol{
+	margin: 30px 0px 30px 100px; /* Margem das opções do ranking. Sempre começa no topo (30px), 
+	vai pa direita (0px), vai p baixo (30px), vai p esquerda (100px), forma um circulo*/
+}
+
+li{
+	font: 2em 'Lato', sans-serif; /*Fonte das opções do ranking*/
+}
+
+video{
+	height: 300px;  /*Altura do Video*/
+}
+
+section  /*Ranking*/
+
+#pag-nov{
+	background-color: #FFF;
+	padding: 20px;
+}
+
+table{
+	margin-top: 30px;
+}
+
+#titulos-tabela{
+	font: 2em "montserrat", sans-serif;
+	color: #D32F2F;
+	text-align: center;
+}
+
+.img-tabela{ /*imagens do campo Novidade. Adiciono no index no imf o class(.) é uma classe, não é só 1 como id (#) nem todos. */
+	height: 200px; /* altura das imagens do campo novidades. */
+}
+
+
